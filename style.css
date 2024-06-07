@@ -1,0 +1,27 @@
+body{
+    overflow-y: hidden;
+    background:url(download.jpeg) no-repeat;
+    background-size: cover;
+}
+table,th,td{
+    border: 1px solid black;
+}
+table th,td{
+    font-size: larger;
+}
+table{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background: rgb(197, 40, 40);
+    background: transparent;
+    border-radius: 12px;
+    color: #eeeaea;
+    background-position: center;
+}
+.container h2{
+    text-align: center;
+    margin-top: 250px;
+    color: white;
+}
